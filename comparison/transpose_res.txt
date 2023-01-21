@@ -1,0 +1,12 @@
+Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets= 20 ] = 0.781
+Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets= 20 ] = 0.936
+Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets= 20 ] = 0.846
+Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets= 20 ] = 0.749
+Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets= 20 ] = 0.826
+Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 20 ] = 0.805
+Average Recall     (AR) @[ IoU=0.50      | area=   all | maxDets= 20 ] = 0.944
+Average Recall     (AR) @[ IoU=0.75      | area=   all | maxDets= 20 ] = 0.863
+Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets= 20 ] = 0.771
+Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets= 20 ] = 0.856
+
+{'AP': 0.7805535417412535, 'Ap .5': 0.9355109317424581, 'AP .75': 0.8462608450241386, 'AP (M)': 0.7488752083229449, 'AP (L)': 0.82618068512252, 'AR': 0.8048803526448364, 'AR .5': 0.944426952141058, 'AR .75': 0.8631926952141058, 'AR (M)': 0.7714558863698443, 'AR (L)': 0.8564474173169826}
